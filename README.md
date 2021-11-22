@@ -1,4 +1,5 @@
 # ios-realtime-notification-popup
+Firebase Remote Config, A/B Testing 을 적용한 iOS Application
 
 # 기능
 - Remote Config
